@@ -1,0 +1,6 @@
+{
+  "name": "FraudShield AI",
+  "description": "AI-Powered Fraud Detection and Financial Analytics Dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
